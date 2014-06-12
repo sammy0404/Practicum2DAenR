@@ -1,1 +1,9 @@
 C:\Users\Gebruiker\Documents\GitHub\Practicum2DAenR\Practicum2DAenR\Practicum2DAenR\bin\Debug\Practicum2DAenR.exe.config
+C:\Users\Gebruiker\Documents\GitHub\Practicum2DAenR\Practicum2DAenR\Practicum2DAenR\bin\Debug\Practicum2DAenR.exe
+C:\Users\Gebruiker\Documents\GitHub\Practicum2DAenR\Practicum2DAenR\Practicum2DAenR\bin\Debug\Practicum2DAenR.pdb
+C:\Users\Gebruiker\Documents\GitHub\Practicum2DAenR\Practicum2DAenR\Practicum2DAenR\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Gebruiker\Documents\GitHub\Practicum2DAenR\Practicum2DAenR\Practicum2DAenR\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Gebruiker\Documents\GitHub\Practicum2DAenR\Practicum2DAenR\Practicum2DAenR\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Gebruiker\Documents\GitHub\Practicum2DAenR\Practicum2DAenR\Practicum2DAenR\obj\Debug\Practicum2DAenR.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\GitHub\Practicum2DAenR\Practicum2DAenR\Practicum2DAenR\obj\Debug\Practicum2DAenR.exe
+C:\Users\Gebruiker\Documents\GitHub\Practicum2DAenR\Practicum2DAenR\Practicum2DAenR\obj\Debug\Practicum2DAenR.pdb
