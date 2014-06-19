@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<content>
+<site>PWNED</site>
+<article>
+Er wordt op grote schaal gefraudeerd bij het herstel van autoschade. Het Verbond voor Verzekeraars (VvV) noemt het een structureel en omvangrijk probleem. De ware kosten van een reparatie liggen gemiddeld zo'n 18 procent lager dan wat in rekening gebracht wordt, meldt het VvV donderdag. In de steekproef die de organisatie liet uitvoeren zaten uitschieters tot wel 50 procent. Acht autoverzekeraars voerden de steekproef uit, waarbij 500 blikschadereparaties onderzocht werden door schade-experts en fraudedeskundigen. Zij ontdekten dat bij meer dan 10 procent van alle reparaties fraude voorkomt. Het VvV noemt de uitkomst schokkend en spoort de branche aan te veranderen. 
+</article>
+</content>

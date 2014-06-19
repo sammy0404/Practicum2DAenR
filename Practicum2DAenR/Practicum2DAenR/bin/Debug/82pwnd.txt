@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<content>
+<site>PWNED</site>
+<article>
+De politieke meningsverschillen over een fusie van de provincies Noord-Holland, Utrecht en Flevoland zijn te groot en te complex. De plannen voor de superprovincie Noordvleugel worden dan ook op de lange baan geschoven.Dat verwachten bronnen rond het kabinet, meldt de Volkskrant. Woensdag en donderdag overleggen ministers Ronald Plasterk van Binnenlandse Zaken, Jeroen Dijsselbloem van Financiën en Melanie Schultz van Infrastructuur en Milieu met de fractiewoordvoerders en -leiders van VVD, PvdA, D66 en GroenLinks over het onderwerp. De bronnen stellen echter dat de hoge dames en heren er niet uit gaan komen. Zij verwachten dat donderdag de conclusie wordt getrokken, dat het plan voor de superprovincie te ingewikkeld is geworden om op korte termijn tot een breed gedragen wetsvoorstel te komen.
+</article>
+</content>

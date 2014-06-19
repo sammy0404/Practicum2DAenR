@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<content>
+<site>PWNED</site>
+<article>
+De wolf is weer eens terug in Nederland! Begin deze maand is er één gezien in de buurt van het Twentse Ootmarsum.Het dier werd binnen een etmaal door drie verschillende mensen gezien, zegt boswachter en wolvenexpert Roel Korbee tegen Tubantia. De laatste keer dat een wolf in Nederland werd gezien was in 1897. Maar dat betekent waarschijnlijk niet dat het dier permanent in Nederland woont. "Waarschijnlijk is dit een wolf die zijn territorium in Duitsland heeft en een uitstapje naar Nederland heeft gemaakt," zegt Korbee tegen het ANP. De wolf heeft tussen de 30 en 48 uur in Nederland doorgebracht, daarna is hij via de weg waarlangs hij binnenkwam weer vertrokken. Over de grens bij Nordhorn is het dier al vaker waargenomen. 
+</article>
+</content>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<content>
+<site>PWNED</site>
+<article>
+Vijftigplussers begeven zich steeds meer in de spannende wereld die internetdaten heet. Dat schrijft RTL Nieuws op basis van cijfers van het Centraal Bureau voor de Statistiek (CBS). Meer dan éénderde van de rimpelsauriërs die de afgelopen vijf jaar bij elkaar ingetrokken zijn hebben elkaar op internet gevonden. "Voor ouderen is het een middel omdat ze niet meer in het uitgaanscircuit zitten", zegt demograaf Jan Latten van het CBS.  "Een andere verklaring die daarbij hoort is dat we steeds meer gescheiden zijn. Er is daarom noodzaak: mensen zijn weer alleen en gaan op zoek naar een middel dat hen daarbij aan een relatie kan helpen. Het internet is niet alleen sneller en overzichtelijker; internet is laagdrempelig."
+</article>
+</content>

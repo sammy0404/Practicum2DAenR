@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<content>
+<site>PWNED</site>
+<article>
+Er is in Den Haag woensdagavond iemand vermoord. De politie meldt dat er geschoten is in een huis in de Beverweerdstraat, Moerwijk.Volgens het ANP is de dader nog niet gevonden. Gegevens over het slachtoffer ontbreken nog, net als informatie over de achtergrond van de moord.
+</article>
+</content>

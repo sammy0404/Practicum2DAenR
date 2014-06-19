@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<content>
+<site>PWNED</site>
+<article>
+Ondanks het verpletterende succes van de Engelse euroscepticus Nigel Farage bij de Europese verkiezingen in mei, zijn de Britten momenteel positiever over de EU dan ooit tevoren.Dit schrijft het Britse onderzoeksbureau YouGov vandaag op zijn eigen website. Desgevraagd geeft 44% van de Britten aan graag binnen de Europese Unie te blijven. Slechts 36% wil part noch deel hebben aan de continentale superstaat. Dit zijn de meest pro-Europese cijfers ooit gemeten onder de huidige regering. Mocht premier David Cameron erin slagen een nieuwe positie voor de Britten binnen de EU te bewerkstelligen dan wil zelfs 57% graag blijven. Dit is het hoogste percentage dat YouGov ooit gemeten heeft.
+
+</article>
+</content>

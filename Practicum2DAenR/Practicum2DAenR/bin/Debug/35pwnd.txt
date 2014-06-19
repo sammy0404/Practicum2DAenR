@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<content>
+<site>PWNED</site>
+<article>
+Het aantal vermogende particulieren in Nederland is vorig jaar met 16,5 procent gestegen, waardoor ons land nu ruim 173.000 miljonairs telt. Het vermogen van de Nederlandse miljonairs steeg in dezelfde periode met 16,6 procent naar een totaal van 437 miljard dollar (322 miljard euro).Dit blijkt uit het woensdag gepubliceerde World Wealth Report (WWR) 2014 van Capgemini en RBC Wealth Management. Nederland onderscheidt zich met deze cijfers van de rest van Europa, waar het aantal vermogende particulieren met 12 procent toenam naar 3,83 miljoen. Het totale vermogen van deze groep steeg met 14 procent tot 12,39 biljoen dollar.Dankzij de aantrekkende economie en goed presterende aandelenmarkten is het aantal vermogende particulieren wereldwijd met 1,76 miljoen mensen gestegen. Het vrij belegbaar vermogen van alle miljonairs is bovendien met 14 procent gestegen naar een recordhoogte van 52,62 biljoen dollar, aldus het rapport. (ANP)
+</article>
+</content>

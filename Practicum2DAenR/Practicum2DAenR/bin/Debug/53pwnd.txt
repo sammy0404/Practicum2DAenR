@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<content>
+<site>PWNED</site>
+<article>
+Het Waalwijkse schoonmaakbedrijf dat eerder in het nieuws kwam wegens een discriminerende advertentiestunt, is failliet verklaard. De discriminerende advertentie kreeg veel aandacht in de media, en binnen de kortste keren kende iedereen de naam 'Budget Cleaning'. In de advertentie was te lezen dat het bedrijf "alleen mensen van Hollandse bodem" opriep om te reageren op de vacature. Niet veel later vertelde de eigenaar van het bedrijf dat het allemaal een marketingstunt was, en dat hij aandacht wilde vragen voor discriminatie op de werkvloer. Het marketingelement uit de stunt heeft echter niet gewerkt, het bedrijf is door de rechter in Den Bosch failliet verklaard, aldus Omroep Brabant.
+</article>
+</content>

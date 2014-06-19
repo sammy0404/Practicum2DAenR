@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<content>
+<site>PWNED</site>
+<article>
+Er zijn meer mensen aan het werk. Het is voor het eerst dit jaar dat om die reden de werkloosheid afneemt. Het aantal werklozen kwam in mei uit op 673.000, een daling van 14.000. Dat betekent dat 8,6 procent van de beroepsbevolking geen werk heeft. Dat heeft het Centraal Bureau voor de Statistiek bekend gemaakt, meldt het ANP.Een groeiend aantal vacatures en uitzenduren zorgden er dit jaar voor dat meer mensen betaald werk kregen. Zowel de daling van de werkloosheid als de toename van de werkzame beroepsbevolking was het grootst bij 25- tot 45-jarigen.Het aantal werklozen nam in maart ook al af. Dat kwam echter doordat mensen zich terugtrokken van de arbeidsmarkt.
+</article>
+</content>

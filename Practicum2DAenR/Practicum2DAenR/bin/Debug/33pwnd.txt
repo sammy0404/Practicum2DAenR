@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<content>
+<site>PWNED</site>
+<article>
+De grootste winnaar van de Europese verkiezingen in Groot-Brittannië, de eurokritische UKIP, is het toch gelukt om een fractie te vormen in het Europees Parlement. De partij van Nigel Farage wist met zes andere partijen een deal te sluiten, waardoor de pan-Europese democratuur schudt op zijn grondvesten. De fractie, die Europa van Democratie en Vrijheid heet, telt 48 zetels, meldt De Telegraaf. Het vormen van een EU-fractie leek eerder deze week een lastige klus te worden na het opstappen van de Nederlandse Europarlementariër Bas Belder (SGP). Het lukte Farage echter het met de Italiaanse partij van Beppe Grillo op een akkoordje te gooien, net als met een Zweedse, Letse, Tsjechische en Litouwse partij en een Franse Europarlementariër van het Front National, die naar zijn fractie overstapte.
+</article>
+</content>

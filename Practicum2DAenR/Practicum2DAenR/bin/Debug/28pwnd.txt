@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<content>
+<site>PWNED</site>
+<article>
+Internethandelaar Amazon heeft zijn eigen smartphone onthuld, die de strijd moet aangaan in een markt die wordt gedomineerd door Apple en Samsung. De Fire Phone moet 200 dollar (147 euro) gaan kosten en is beschikbaar via het Amerikaanse telecomconcern AT&T. De nieuwe smartphone werd in een zeldzaam mediaoptreden in Seattle gepresenteerd door Amazon-topman Jeff Bezos. Het toestel is zwart met een rubberen frame en biedt 3D-beelden en beeldherkenningstechnologie. Daardoor moet het makkelijker worden om onlinebestellingen te doen op de website van Amazon. (ANP)
+</article>
+</content>

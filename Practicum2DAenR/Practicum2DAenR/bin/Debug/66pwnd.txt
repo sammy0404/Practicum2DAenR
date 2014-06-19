@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<content>
+<site>PWNED</site>
+<article>
+De gemeente Amsterdam deelt aan zo’n 6.500 hoofdstedelijke tieners die opgroeien in armoede bonnen uit voor de aanschaf van kleding. Naast de kledingbonnen, ter waarde van 150 euro, mogen de misdeelde jeugdigen 90 euro besteden aan een cursus op het gebied van sport, kunst en cultuur, meldt het ANP. Verder krijgen de kinderen een tegoedbon ter waarde van 20 euro, waarmee ze kunnen gaan klimmen of kanoën in het Amsterdamse bos.Wethouder Freek Ossel (Armoede) liet woensdag weten dat het stadsbestuur deze week akkoord ging met het plan om deze jongeren nog voor de start van het nieuwe schooljaar een zogeheten kindpakket aan te bieden. De kosten (1,9 miljoen euro) worden met extra rijksgeld voor armoedebestrijding gefinancierd.Het kindpakket komt bovenop de al bestaande regelingen voor huishoudens met een minimuminkomen.
+</article>
+</content>
